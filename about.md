@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-nav_order: 2
+nav_order: 3
 ---
 
 # About Rudzainy Rahman
