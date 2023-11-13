@@ -1,7 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
+
+### Recent posts
 
 <ul>
   {% for post in site.posts %}
@@ -10,8 +13,3 @@ layout: home
     </li>
   {% endfor %}
 </ul>
-
-Built with:
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[Jekyll]: https://jekyllrb.com
