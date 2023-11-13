@@ -1,6 +1,7 @@
 ---
 title: Flip Down Numbers & Characters
 layout: post
+tags: design,figma
 ---
 
 ![Cover image for Flip Down Numbers & Characters](https://www.rudzainy.my/img/flip-number-file-cover.png "Cover image for Flip Down Numbers & Characters")
